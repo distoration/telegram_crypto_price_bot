@@ -8,7 +8,7 @@ print('bot is starting...')
 time.sleep(2)
 
 # enter below your telegram bot token you find in the "botfather".
-bot = telegram.Bot(token='6208841109:AAGyetSzKfU_7dCbkGEcyuoGOa1VZ0iHaBs')
+bot = telegram.Bot(token='your_telegram_bot_token')
 print("API loaded correctly...")
 
 # function responsible for take by API coin price you want to get to know.
