@@ -1,4 +1,4 @@
-# hi this is telegram_crypto_price_bot
+# hi this is telegram_crypto_price_bot 0.1v
 # I've written this code by help with ChatGPT.
 
 instruction:
